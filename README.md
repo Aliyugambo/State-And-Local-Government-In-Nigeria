@@ -11,4 +11,4 @@
 <ol>
 
 <b>View Demo = > </a>
-<a href="https://https://github.com/Aliyugambo/State-And-Local-Government-In-Nigeria" target="_blank">DEMO</a>
+<a href="https://aliyugambo.github.io/State-And-Local-Government-In-Nigeria/" target="_blank">DEMO</a>
